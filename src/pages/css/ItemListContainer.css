@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+.colPadding{
+    padding-top: 50px;
+    font-family:  'Montserrat', sans-serif;
+}
+.body{ 
+    background-color: #edebeb;
+    padding-bottom: 50px;
+}
+.card input{ text-align: center;}
+.buttonAccent{
+    background-color: #e12257 !important;
+    border-color: #e12257 !important ;
+    font-size: x-small !important;
+    color: white
+}
+.buttonAccent:hover{
+    background-color: #1d175c !important;
+    border-color: #1d175c !important ;
+    font-size: 14px !important;
+    color: white
+}
+.buttonPrimary{
+    background-color: #1d175c !important;
+    border-color: #1d175c !important ;
+    font-size: x-small !important;
+    font-size: 14px !important;
+    color: white;
+}
+.buttonPrimary:hover{
+    background-color: #e12257 !important;
+    border-color: #e12257 !important ;
+    font-size: 14px!important;
+    color: white
+}
+.titulo{
+    color: #1d175c;
+    font-weight: bold;
+}
+.categoria{
+    color: #1d175c;
+}

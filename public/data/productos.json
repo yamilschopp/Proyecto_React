@@ -1,0 +1,122 @@
+[
+    {
+        "id" : "1",
+        "nombre" : "Sorrentinos",
+        "precio" : 300, 
+        "categoria" : "Pastas", 
+        "imagen" : "../assests/PASTAS1.jpg",
+        "descripción" : "Sorrentinos caseros realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se venden en bandejas de 12 unidades, junto a una salsa a elección",
+        "stock" : 10
+    },
+    {
+        "id" : "2",
+        "nombre" : "Ravioles",
+        "precio" : 200, 
+        "categoria" : "Pastas", 
+        "imagen" : "../assests/PASTAS2.jpg",
+        "descripción" : "Ravioles caseros realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se venden en bandejas 1kg, junto a una salsa a elección",
+        "stock" : 5
+    },
+    {
+        "id" : "3",
+        "nombre" : "Ñoquis de papas",
+        "precio" : 150, 
+        "categoria" : "Pastas", 
+        "imagen" : "../assests/PASTAS3.jpg",
+        "descripción" : "Ñoquis de papas realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se venden en bandejas 1kg, junto a una salsa a elección",
+        "stock" : 4
+    },
+    {
+        "id" : "4",
+        "nombre" : "Tallarines",
+        "precio" : 130, 
+        "categoria" : "Pastas",
+        "imagen" : "../assests/PASTAS4.jpg",
+        "descripción" : "Tallarines caseros realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se venden en bandejas 1kg, junto a una salsa a elección",
+        "stock" : 8
+    },
+    {
+        "id" : "5",
+        "nombre" : "Canelones de verdura",
+        "precio" : 400, 
+        "categoria" : "Pastas", 
+        "imagen" : "../assests/PASTAS5.jpg",
+        "descripción" : "canelones de verdura realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se venden en bandejas de 12 canelones, junto a una salsa a elección",
+        "stock" : 7
+    },
+    {
+        "id" : "6",
+        "nombre" : "Lasagna",
+        "precio" : 500, 
+        "categoria" : "Pastas", 
+        "imagen" : "../assests/PASTAS6.jpg",
+        "descripción" : "lasagna casera realizados en el día, con insumos de primera calidad y con los mejores estandares de limpieza",
+        "presentación" : "Se vende en bandeja plastica para una mejor conservación, junto a una salsa a elección",
+        "stock" : 9
+    },
+    {
+        "id" : "7",
+        "nombre" : "Selva Negra",
+        "precio" : 500, 
+        "categoria" : "Postres", 
+        "imagen" : "../assests/POSTRES1.jpg",
+        "descripción" : "La tarta o torta Selva Negra es una tarta típica de la cocina de Baden y uno de los dulces más característicos de la gastronomía alemana. Está compuesta por varias capas de bizcochuelo de chocolate embebido en kirsch e intercaladas con nata y cerezas",
+        "presentación" : "",
+        "stock" : 10
+    },
+    {
+        "id" : "8",
+        "nombre" : "Tarta frutal",
+        "precio" : 300, 
+        "categoria" : "Postres", 
+        "imagen" : "../assests/POSTRES2.jpg",
+        "descripción" : "Tartas frutales con frutas frescas junto a un baño de almibar para darle un sabor unico, se utilizan frutas de primera calidad",
+        "presentación" : "",
+        "stock" : 5
+    },
+    {
+        "id" : "9",
+        "nombre" : "Postre borracho",
+        "precio" : 350, 
+        "categoria" : "Postres", 
+        "imagen" : "../assests/POSTRES3.jpg",
+        "descripción" : "El postre borracho es una receta típica de Argentina pero viene del bizcocho borracho español. Solo que acá nos fuimos tomando nuestras licencias y agregándole un poco de esto y un poco de aquello… Es un postre básico, consiste en una crema o postre y vainillas o galletitas mojadas en algún licor o vino",
+        "presentación" : "",
+        "stock" : 4
+    },
+    {
+        "id" : "10",
+        "nombre" : "Box dia del padre",
+        "precio" : 800, 
+        "categoria" : "Especiales", 
+        "imagen" : "../assests/BOX1.jpg",
+        "descripción" : "Regalo para papá compuesto de cerveza, mani, avellanas, nuez y aceitunas para distrutar en su día",
+        "presentación" : "Caja preparada para la ocasión con motivo personalizado",
+        "stock" : 6
+    },
+    {
+        "id" : "11",
+        "nombre" : "Box dia de la madre",
+        "precio" : 950, 
+        "categoria" : "Especiales", 
+        "imagen" : "../assests/BOX2.jpg",
+        "descripción" : "Regalo para mamá compuesto de cafe, mini frola, alfajor, chocolates y rosas para distrutar en su día",
+        "presentación" : "Caja preparada para la ocasión con motivo personalizado",
+        "stock" : 7
+    },
+    {
+        "id" : "12",
+        "nombre" : "Box dia del amigo",
+        "precio" : 880, 
+        "categoria" : "Especiales", 
+        "imagen" : "../assests/BOX3.jpg",
+        "descripción" : "Regalo para el dia del amigo con eleccion de cada comprador para distrutar en su día",
+        "presentación" : "Caja preparada para la ocasión con motivo personalizado",
+        "stock" : 12
+    }
+]

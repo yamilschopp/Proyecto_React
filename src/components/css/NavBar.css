@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+.header{
+    width: 100%;
+    padding: 10px 20px;
+    border-bottom: 1px solid #c5c8cb; 
+    background-color: #3f3c3c4f;
+}
+.logoEmpresa{
+    width: 80px;
+
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    padding: 20px 20px;
+    color: #1d175c;
+    cursor: pointer;
+    font-family:  'Montserrat', sans-serif;
+}
+.menu ul li:hover{
+    color: #e12257;
+}
+.menu ul li ul.dropdown-menu li{
+    float: none;
+}
+.menu ul li ul.dropdown-menu li a{
+    color: #000000;
+    background-color: white;
+}
+.menu ul li ul.dropdown-menu li:hover a{
+    color: #e12257 !important;
+    background-color: white;
+}
+.icons{
+    padding: 20px 10px;
+    color: #1d175c; 
+    cursor: pointer;
+    float: left;
+}
+.icons svg{
+    color: #1d175c; 
+    float: left;
+}
+.icons svg:hover{
+    color: #e12257;
+}
+.active{
+    color: #e12257;
+}

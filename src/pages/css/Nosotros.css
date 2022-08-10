@@ -1,0 +1,9 @@
+.mapa{
+    width: 100%;
+    margin-top: 70px;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #e12257!important;
+    border-top-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+}

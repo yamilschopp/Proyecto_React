@@ -1,0 +1,22 @@
+.card{
+    text-align: center;
+    border: 0.5px solid #a1a1a14f !important;
+    border-top-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+}
+.favorito{
+    float: right;
+    cursor: pointer;
+}
+.marca{
+    font-weight: bold;
+    color: #e12257;
+}
+.precio{
+    font-weight: bold;
+    color: #1d175c;
+}
+.titulo{
+    color: #1d175c;
+    text-transform: uppercase;
+}
